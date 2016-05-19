@@ -1,0 +1,15 @@
+# Transcode profile menu items definition
+entity.transcode_profile.collection:
+  title: 'Transcode profile'
+  route_name: entity.transcode_profile.collection
+  description: 'List Transcode profile (bundles)'
+  parent: system.admin_structure
+  weight: 99
+
+transcode_profile.admin_settings_form:
+  title: 'AdminSettingsForm'
+  route_name: transcode_profile.admin_settings_form
+  description: 'Manage transcode profiles'
+  parent: system.admin_config_system
+  weight: 99
+

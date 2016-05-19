@@ -1,0 +1,14 @@
+{
+  "name": "drupal/transcode_profile",
+  "type": "drupal-module",
+  "description": "Video transcode profile manager",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/transcode_profile",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/transcode_profile",
+    "source": "http://cgit.drupalcode.org/transcode_profile"
+  },
+  "require": { }
+}
